@@ -6,7 +6,7 @@
 # Steps to Use this Package : Git Clone or Download the zip.
 # Setup React Front end
 
-1. cd angular-python-hack-az
+1. cd react-node-hack
 
 2. npm Install
 3. npm start
